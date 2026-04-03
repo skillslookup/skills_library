@@ -1,0 +1,16 @@
+{
+  "name": "What is AI?",
+  "level": "beginner",
+  "category": "Basics",
+  "tags": [
+    "AI",
+    "Introduction",
+    "Foundations",
+    "Beginner"
+  ],
+  "prerequisites": [],
+  "next_steps": [
+    "how-llms-work",
+    "prompt-engineering"
+  ]
+}

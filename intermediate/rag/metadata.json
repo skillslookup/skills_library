@@ -1,0 +1,20 @@
+{
+  "name": "RAG (Retrieval Augmented Generation)",
+  "level": "intermediate",
+  "category": "Data & Search",
+  "tags": [
+    "RAG",
+    "Search",
+    "Knowledge",
+    "Vector DB",
+    "Intermediate"
+  ],
+  "prerequisites": [
+    "what-is-ai",
+    "how-llms-work"
+  ],
+  "next_steps": [
+    "vector-databases",
+    "embeddings"
+  ]
+}

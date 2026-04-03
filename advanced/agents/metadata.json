@@ -1,0 +1,21 @@
+{
+  "name": "AI Agents",
+  "level": "advanced",
+  "category": "Autonomy",
+  "tags": [
+    "Agents",
+    "ReAct",
+    "Tool Use",
+    "Reasoning",
+    "Advanced"
+  ],
+  "prerequisites": [
+    "what-is-ai",
+    "rag",
+    "prompt-engineering"
+  ],
+  "next_steps": [
+    "multi-agent-systems",
+    "ai-agent-project"
+  ]
+}
