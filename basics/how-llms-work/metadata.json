@@ -1,0 +1,16 @@
+{
+  "name": "How LLMs Work",
+  "level": "beginner",
+  "category": "Basics",
+  "tags": [
+    "LLM",
+    "Foundations",
+    "Theory"
+  ],
+  "prerequisites": [
+    "what-is-ai"
+  ],
+  "next_steps": [
+    "prompt-engineering"
+  ]
+}

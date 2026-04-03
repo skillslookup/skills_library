@@ -1,0 +1,16 @@
+{
+  "name": "Local AI (Ollama)",
+  "level": "intermediate",
+  "category": "Infrastructure",
+  "tags": [
+    "Local",
+    "Ollama",
+    "Privacy"
+  ],
+  "prerequisites": [
+    "what-is-ai"
+  ],
+  "next_steps": [
+    "private-local-assistant"
+  ]
+}

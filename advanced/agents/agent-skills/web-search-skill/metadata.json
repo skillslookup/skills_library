@@ -1,0 +1,16 @@
+{
+  "name": "Web Search Skill",
+  "level": "advanced",
+  "category": "Skills",
+  "tags": [
+    "Web",
+    "Search",
+    "Information Retrieval"
+  ],
+  "prerequisites": [
+    "agent-skills"
+  ],
+  "next_steps": [
+    "private-local-assistant"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Context Engineering",
+  "level": "beginner",
+  "category": "Basics",
+  "tags": [
+    "Context",
+    "Prompting",
+    "Stability"
+  ],
+  "prerequisites": [
+    "prompt-engineering"
+  ],
+  "next_steps": [
+    "smolagents"
+  ]
+}

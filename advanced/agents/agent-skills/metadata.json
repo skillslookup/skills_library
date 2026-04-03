@@ -1,0 +1,16 @@
+{
+  "name": "Agent Skills",
+  "level": "advanced",
+  "category": "Autonomy",
+  "tags": [
+    "Skills",
+    "Modular",
+    "Instructions"
+  ],
+  "prerequisites": [
+    "agents"
+  ],
+  "next_steps": [
+    "private-local-assistant"
+  ]
+}

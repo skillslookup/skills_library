@@ -1,0 +1,16 @@
+{
+  "name": "smolagents",
+  "level": "intermediate",
+  "category": "Tools",
+  "tags": [
+    "Agents",
+    "Hugging Face",
+    "Python"
+  ],
+  "prerequisites": [
+    "agents"
+  ],
+  "next_steps": [
+    "private-local-assistant"
+  ]
+}

@@ -1,4 +1,4 @@
-# 🚀 Skills Lookup: Your AI Learning Hub
+# 🚀 SkillsLookup: Your AI Learning Hub
 
 Welcome to **SkillsLookup**! This repository is designed to be the simplest, most educational, and structured way to start your journey into Artificial Intelligence.
 
@@ -23,30 +23,27 @@ Don't be overwhelmed! Follow our progressive learning path. Each folder contains
 
 | Level | Key Skills |
 | :--- | :--- |
-| **🟢 Basics** | [What is AI?](./basics/what-is-ai) • [How LLMs Work](./basics/how-llms-work) • [Prompt Engineering](./basics/prompt-engineering) |
-| **🟡 Intermediate** | [RAG](./intermediate/rag) • [Embeddings](./intermediate/embeddings) • [Vector DBs](./intermediate/vector-databases) |
-| **🔴 Advanced** | [Agents](./advanced/agents) • [Fine-Tuning](./advanced/fine-tuning) • [Multi-Agent Systems](./advanced/multi-agent-systems) |
+| **🟢 Basics** | [What is AI?](./basics/what-is-ai) • [How LLMs Work](./basics/how-llms-work) • [Prompt Engineering](./basics/prompt-engineering) • **[Context Engineering](./basics/context-engineering) 🔥** |
+| **🟡 Intermediate** | [RAG](./intermediate/rag) • [Embeddings](./intermediate/embeddings) • [Vector DBs](./intermediate/vector-databases) • **[Local AI (Ollama)](./intermediate/local-ai) 🔥** |
+| **🔴 Advanced** | [Agents](./advanced/agents) • [Agent-Skills](./advanced/agents/agent-skills) • [Fine-Tuning](./advanced/fine-tuning) • [Multi-Agent](./advanced/multi-agent-systems) |
+| **🛠️ Tools** | [OpenAI](./tools/openai) • [Gemini](./tools/gemini) • [LangChain](./tools/langchain) • **[smolagents](./tools/smolagents) 🔥** |
+
+---
+
+## 🔥 Featured Project: Private Local Assistant
+Learn how to build a privacy-first AI assistant using **Ollama** and **smolagents**. 
+[**Start the Project →**](./projects/private-local-assistant)
 
 ---
 
 ## ✨ Features
 - **Zero Jargon**: We use simple analogies to explain complex math.
 - **Runnable Examples**: Every skill has a `/examples` folder with minimal code.
-- **Progressive**: Move from "Hello World" to "Autonomous Agents" at your own pace.
-
----
-
-## 🛠️ Prerequisites
-- Basic curiosity.
-- (Optional) A little bit of Python knowledge to run the `/examples`.
+- **2026 Ready**: Includes the latest trending skills from GitHub and Anthropic.
 
 ---
 
 ## 🤝 Contributing
 We love open source! If you have a simpler way to explain a concept, please open a PR.
-
----
-
-> "The best way to predict the future is to create it." — *Peter Drucker*
 
 [**Get Started with the Learning Path →**](./LEARNING_PATH.md)

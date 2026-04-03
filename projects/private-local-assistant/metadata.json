@@ -1,0 +1,16 @@
+{
+  "name": "Private Local Assistant",
+  "level": "advanced",
+  "category": "Projects",
+  "tags": [
+    "Project",
+    "Local",
+    "Agent"
+  ],
+  "prerequisites": [
+    "local-ai",
+    "smolagents",
+    "agent-skills"
+  ],
+  "next_steps": []
+}
