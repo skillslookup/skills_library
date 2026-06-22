@@ -21,6 +21,9 @@ A typical skill file contains:
 ## Example: Web Search Skill
 [**Check out the web-search-skill/SKILL.md**](./web-search-skill/SKILL.md)
 
+## Example: Hermes Tweet Skill
+[**Check out the hermes-tweet-skill/SKILL.md**](./hermes-tweet-skill/SKILL.md)
+
 ## When to use it
 - When you want your agent to have "Modes" (e.g., "Developer Mode", "Researcher Mode").
 - When you are building enterprise-grade agents with many complex tools.
